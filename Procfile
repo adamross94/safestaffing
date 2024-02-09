@@ -1,0 +1,1 @@
+web: gunicorn safe_staffing_dashboard:server
