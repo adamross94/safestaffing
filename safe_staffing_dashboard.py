@@ -169,7 +169,7 @@ app.layout = html.Div([
                 html.H1('Safe Staffing Report', style={
                         'text-align': 'center', 'margin-bottom': '10px'}),
                 html.P('''
-                        This interactive dashboard is designed to provide comprehensive insights into staffing levels within various hospital wards, specialties, and divisions, ensuring optimal patient care and operational efficiency. By leveraging real-time data, the dashboard allows for the monitoring of registered and unregistered staff fill rates, care hours per patient day (CHPPD), and staffing distribution across different shifts. Key Features include Fill Rate Analysis, CHPPD Metrics, Staffing Distribution, and Interactive Filters. This dashboard serves as a vital tool for ward managers, nurse leaders, and hospital administrators, facilitating data-driven decisions to enhance patient care and staff utilization.
+                        This interactive dashboard is designed to provide comprehensive insights into staffing levels within various hospital wards, specialties, and divisions, ensuring optimal patient care and operational efficiency. By leveraging real-time data, the dashboard allows for the monitoring of registered and unregistered staff fill rates, care hours per patient day (CHPPD), and staffing distribution across different shifts.
                         ''',
                         style={'text-align': 'center', 'margin-bottom': '20px'}),
                 html.H2('Options', style={'text-align': 'center'}),
